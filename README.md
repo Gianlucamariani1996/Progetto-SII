@@ -9,5 +9,3 @@ nell'anno accademico 2020-2021.
 Per effettuare il download del repository:
 
     git clone https://github.com/Gianlucamariani1996/Progetto-SII.git
-
-## Organizzazione del repository 
