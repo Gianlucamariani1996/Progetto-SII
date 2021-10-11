@@ -5,3 +5,4 @@ nltk
 numpy
 seaborn
 ipynb
+matplotlib
